@@ -1,0 +1,3 @@
+service:
+  getting: Hello from service 1
+  id: 12334
